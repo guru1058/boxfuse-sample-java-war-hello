@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>welcome to devops!</h1>
 <img src="boxfuse.png">
 
 <h2>welcome to mysite!</h2>
